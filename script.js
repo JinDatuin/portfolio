@@ -1,4 +1,4 @@
-const username = "YOUR_USERNAME";
+const username = "JinDatuin";
 
 const projectsContainer = document.getElementById("projects");
 const name = document.getElementById("name");
